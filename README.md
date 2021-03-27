@@ -8,6 +8,9 @@ git clone https://github.com/abhishekjt/coindeskAPI.git
 
 cd coindeskAPI
 
+#Install dependencies
+pip install -r requirements.txt
+
 # Run test(s)
 pytest
 ```
